@@ -427,6 +427,7 @@ Guatemala:
 Puerto Rico:
 - Green distance markers every 100m indicating distance to San Juan
 - No front license plate  
+
 <img src="img/image.png" width="200">
 
 Canada:
