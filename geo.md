@@ -12,7 +12,7 @@
 - Sri Lanka = තමරා
 - Hindi = तमारा
 - Singapore = English and Chinese
-- Philippins = mustasa, English
+- Philippins = mustasa, English, Spanish
 
 **Europe**
 - Germany = ß
@@ -50,7 +50,7 @@ Portuguese:
 # Car
 
 Features:
-- Bars = Guatemala, Faroe, Mongolia, Kyrgyzstan, Senegal, Kenya, Dominican Republic (black bar inside), US Virgin Islands, Curaçao, Ghana (black tape), Louang Prabang (Lao)
+- Bars = Guatemala, Faroe, Mongolia, Kyrgyzstan, Kenya, Dominican Republic (black bar inside), US Virgin Islands, Curaçao, Ghana (black tape), Louang Prabang (Lao)
 - Black snorkel = Kenya
 - French flag colors = Sri Lanka
 - Sides of car visible = Uganda
@@ -79,9 +79,13 @@ Colors:
 
 <img src="img/2023-10-17-19-36-01.png" width="400">
 
-**Senegal and Qatar (first truck only)**
+**Senegal**
 
 <img src="img/2023-10-17-19-36-25.png" width="400"> <img src="img/2023-10-17-19-36-34.png" width="400">
+
+**Qatar**
+
+<img src="img/2023-10-17-19-36-25.png" width="400">
 
 **Ukraine**
 
@@ -92,11 +96,12 @@ Colors:
 <img src="img/2023-10-17-19-37-53.png" width="400">
 
 **Bermuda**
+
 <img src="img/bermuda.png" width="400">
 
 # License plates
 
-- Red = Kyrgyzstan, Isle of Man, Bhutan
+- Red = Kyrgyzstan, Isle of Man, Albania
 - Yellow = Netherlands, Luxembourg, Colombia, Lao, Israel
 - Yellow on the back only = UK
 > Ireland has European plates
@@ -378,7 +383,7 @@ Generations:
 
 <img src="img/2024-02-01-15-58-12.png" width="400">
 
-`Eucaplyptus` everywhere in Peru
+`Eucalyptus` everywhere in Peru
 
 <img src="img/2024-02-01-17-31-14.png" width="400">
 
@@ -413,6 +418,7 @@ Mexico:
 
 Guatemala:
 - Uses ALTO on stop signs
+- Bars on cars
 
 Puerto Rico:
 - Green distance markers every 100m indicating distance to San Juan
@@ -426,10 +432,12 @@ Canada:
 USA:
 - Gen 1 camera
 - `Speed limit` signs
+- Uses miles
 
 ## South America
 
 Curacao:
+- Bars on cars
 - Dutch as national language
 
 Colombia:
@@ -452,6 +460,7 @@ Peru:
 - Currency `S/`
 - Streets are called Jiron (Jr.)
 - Tuk tuks
+- `Eucalyptus` trees
 
 Bolivia:
 - Unpainted brick houses
@@ -478,12 +487,16 @@ Argentina:
 - Double yellow lines have no white dashes in between
 - Thin metal sign posts
 - No bollard
+- Black car
+- Black dot in the middle of the license plate
+- `Pampa` vegetation
 
 Uruguay:
 - Yellow centre alongside dashed white
 - Double yellow road lines will always have a white dash in between
 - Thick white wooden sign posts
 - Bad weather
+- Black car
 
 ## Middle East
 
@@ -495,6 +508,7 @@ Jordan:
 ## East Asia
 
 Bhutan:
+- Red plates
 
 <img src="img/2024-02-01-15-54-09.png" width="300">
 
@@ -512,6 +526,7 @@ Indonesia:
 - Tons of scooters
 - Brown tiles or iron roof for Borneo mostly
 - Money = `Rp`
+- Black license plates
 
 ```
 North – Utara
@@ -530,6 +545,7 @@ Malaysia:
 - Bridges have area initials
 - Columns to support part of the house
 - Money = `RM`
+- Black license plates
 
 Philippins:
 - Driving on the right
@@ -566,6 +582,7 @@ Jersey:
 
 Netherlands:
 - Flat or extremely steep roofs
+- Yellow license plates
 
 ### Baltic countries
 
@@ -578,6 +595,7 @@ Latvia:
 
 Estonia:
 - Bus sign with 4 windows
+- White flowers
 
 <img src="img/2024-02-01-15-26-28.png" width="200">
 
@@ -585,9 +603,6 @@ Lithuania:
 - Bus sign with 4 windows
 
 <img src="img/2024-02-01-15-25-18.png" width="200">
-
-Estonia:
-- White flowers
 
 ### Center
 
@@ -626,37 +641,48 @@ Bulgaria:
 - White car
 
 Ukraine:
+- Blue and yellow on the left of license plates
 - Red car
 
 ### Coast
 
 Albania:
+- Red license plates
 - Unfinished two stories
+- Rifts in the sky
 
 ## Africa
 
 Kenya:
 - South African roads possible
+- Black snorkel
+- Bars on cars
 
 Senegal:
 - Crumbling brick buildings
+- Rifts in the sky
 
 South Africa:
 - High fences
 - Gen 2 camera
+- Yellow on the sides of the road
 
 Lesotho:
 - No gen 2 camera
 - No trees
+- Yellow on the sides of the road
 
 Eswatini:
 - No gen 2 camera
 - Trees
 - Green
+- Yellow on the sides of the road
 
 Botswana:
 - No gen 2 camera
 - Desert
+- Rifts in the sky
+- Yellow on the sides of the road
 
 ## Oceania
 
@@ -699,7 +725,7 @@ Isle of Man:
 US Virgin Islands:
 - Short bars on car
 
-Chrismas Island:
+Christmas Island:
 - Metal trailer
 
 
